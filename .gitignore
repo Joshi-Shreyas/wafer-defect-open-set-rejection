@@ -2,3 +2,5 @@
 *.npz
 Data_Preprocessing.docx
 Project Proposal.docx
+.ipynb_checkpoints/
+__pycache__/

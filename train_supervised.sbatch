@@ -13,7 +13,7 @@
 mkdir -p /scratch/joshi.shreyas/wafer_results/supervised
 
 # Load conda and activate the environment
-source /shared/EL9/explorer/miniconda3/25.9.1/miniconda3/etc/profile.d/conda.sh
+source /shared/EL9/explorer/miniconda3/24.11.1/miniconda3/etc/profile.d/conda.sh
 conda activate /scratch/joshi.shreyas/conda/envs/wafer_env
 
 cd ~/wafer-defect-open-set-rejection
